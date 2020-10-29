@@ -1,0 +1,299 @@
+@media only screen and (max-width: 1840px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  header nav .menu_wrp {
+    width: 82% !important;
+  }
+  .banner .bnr_content_wrp {
+    top: 28%;
+    left: 18%;
+  }
+  .OurService .Service1 .srv1 img {
+    width: 100%;
+    height: 627px;
+  }
+}
+
+@media only screen and (max-width: 1720px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  header nav .menu_wrp {
+    width: 81% !important;
+  }
+  header nav .logo {
+    width: 320px;
+  }
+  .banner .bnr_content_wrp {
+    top: 30%;
+    left: 19%;
+  }
+  .OurService .Service1 .srv1 img {
+    height: 652px;
+  }
+  footer .Fcontent_wrp .Rside2 a::after {
+    right: 90px;
+    top: 30px;
+  }
+}
+
+@media only screen and (max-width: 1520px) {
+  .container {
+    width: 95%;
+    margin: 0 auto;
+  }
+  header nav .logo {
+    width: 284px;
+    padding: 20px 14px 15px 31px;
+  }
+  header nav .menu_wrp .search ul li {
+    padding: 0 2rem;
+  }
+  header nav .menu_wrp .search ul li a {
+    padding: .8rem 1.5rem;
+  }
+  header nav .menu_wrp .menu ul li a {
+    font-size: 19px;
+  }
+  .banner .bnr_content_wrp .cnt1 p {
+    font-size: 16px;
+    line-height: 1.7;
+  }
+  .banner .bnr_content_wrp .cnt1 p br {
+    display: none;
+  }
+  .banner .bnr_content_wrp .cnt1 h2 {
+    font-size: 34px;
+    line-height: 1.4;
+  }
+  .banner .bnr_content_wrp .cnt1 a {
+    padding: 1.1rem 4rem 1.2rem 3rem;
+  }
+  .Client_wrp .client_child ul li {
+    list-style-type: none;
+    padding: 0px 2rem;
+  }
+  .Client_wrp {
+    margin: 2rem 0;
+  }
+  .OurService .Service1 .srv1 img {
+    height: 608px;
+  }
+  .OurService .Service1 .srv2 .pr1 ul li {
+    padding: 2rem 0 0 2rem;
+    font-size: 16px;
+  }
+  .OurService .Service1 .srv2 .pr1 p {
+    font-size: 1rem;
+    padding: 1rem 7rem 1rem 3rem;
+    margin: 4rem 0 0;
+  }
+  .OurService .Service1 .srv2 .pr1 p span::after {
+    width: 31px;
+    height: 11px;
+    right: -62px;
+    top: 5px;
+  }
+  .Product_wrp .Pr_child .Prd2 .head3 p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .Product_wrp .Pr_child .Prd2 .product_collection .prdct_Cmn1 figcaption p {
+    line-height: 1.7;
+    font-size: 1rem;
+  }
+  .Product_wrp .Pr_child .Prd1 .dnf p {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+  .Product_wrp {
+    width: 100%;
+    margin: 86px 0;
+  }
+  footer .Fcontent_wrp .Fside1 h1 {
+    font-size: 1.4rem;
+    line-height: 1.6;
+    padding: 1rem 0 2rem;
+  }
+  footer .Fcontent_wrp .Fside1 p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  footer .Fcontent_wrp .Rside2 span {
+    font-size: 21px;
+    padding: 1.5rem 0;
+  }
+  footer .Fcontent_wrp .Rside2 a {
+    padding: 1.3rem 6rem 1.3rem 0rem;
+    width: 38%;
+  }
+  footer .Fcontent_wrp .Rside2 a::after {
+    right: 78px;
+    top: 27px;
+  }
+  footer .Fcontent_wrp .Rside2 img {
+    max-width: 9%;
+  }
+  footer {
+    padding: 47px 0;
+  }
+}
+
+@media only screen and (max-width: 1420px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  header nav .logo {
+    width: 256px;
+    padding: 20px 14px 15px 31px;
+  }
+  header nav .menu_wrp .menu ul li a {
+    font-size: 17px;
+  }
+  header nav .menu_wrp .search ul li {
+    padding: 0 1.6rem;
+    font-size: 15px;
+  }
+  header nav .menu_wrp .search ul li a {
+    padding: .6rem 1.3rem;
+  }
+  .banner .bnr_content_wrp .cnt1 h2 {
+    font-size: 29px;
+    line-height: 1.6;
+  }
+  .banner .bnr_content_wrp {
+    top: 40%;
+    left: 19%;
+  }
+  .banner .bnr_content_wrp .cnt1 p {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+  .banner .bnr_content_wrp .cnt1 a {
+    padding: 1rem 3rem;
+  }
+  .banner .bnr_content_wrp .cnt1 {
+    width: 644px;
+    height: 333px;
+    padding: 1rem 4rem;
+  }
+  .banner .bnr_content_wrp .cnt1 h2::before {
+    width: 44px;
+    left: -49px;
+    top: 24px;
+  }
+  .OurService .Service1 .srv2 .pr1 ul li {
+    padding: 1.4rem 0 0 2rem;
+    font-size: 15px;
+  }
+  .OurService .Service1 .srv2 .head2 h5 {
+    font-size: 1.2rem;
+  }
+  .OurService .Service1 .srv2 .head2 h2 {
+    font-size: 1.6em;
+    padding: 13px 0 0;
+  }
+  .OurService .Service1 .srv2 {
+    width: 55%;
+    padding: 2rem 1rem 2rem 3rem;
+  }
+  .OurService .Service1 .srv2 .head2 h5::before {
+    width: 29px;
+    left: -38px;
+    top: 11px;
+  }
+  .OurService .Service1 .srv2 .pr1 ul {
+    width: 48%;
+  }
+  .OurService .Service1 .srv2 .pr1 ul .unFrt span {
+    font-size: 13px;
+  }
+  .OurService .Service1 .srv2 .pr1 ul li::before {
+    top: 29px;
+    left: 13px;
+  }
+  .OurService .Service1 .srv2 .pr1 ul .unFrt::before {
+    top: 24px !important;
+    left: 11px;
+  }
+  .OurService .Service1 .srv2 .pr1 p {
+    font-size: .9rem;
+    padding: 1rem 6rem 1rem 1rem;
+    margin: 5rem 0 0;
+  }
+  .OurService .Service1 .srv1 img {
+    height: 542px;
+  }
+  .Client_wrp .client_child ul li {
+    padding: 0px 2rem;
+  }
+  .Client_wrp {
+    margin: 2rem 0 0;
+  }
+  .Product_wrp .Pr_child .Prd2 .head3 p
+, .prdct_Cmn1 figcaption p, .Pr_child .Prd1 .dnf p {
+    font-size: 14px !important;
+    line-height: 1.7;
+  }
+  .Product_wrp .Pr_child .Prd2 .head3 h2 {
+    font-size: 26px;
+    margin: 5px 0 .8rem;
+  }
+  .Product_wrp .Pr_child .Prd1 .dnf p {
+    line-height: 1.8;
+  }
+  .Product_wrp .Pr_child .Prd2 .product_collection .prdct_Cmn1 {
+    width: 48%;
+    margin: 29px 0 9px;
+  }
+  .Product_wrp .Pr_child .Prd2 .product_collection .prdct_Cmn1 figcaption h3 {
+    font-size: 1.2rem;
+    padding: .6rem 0 .6rem;
+  }
+  .Product_wrp .Pr_child .Prd1 .dnf h2 {
+    font-size: 22px;
+  }
+  footer .Fcontent_wrp .Fside1 h5 {
+    font-size: 14px;
+    padding: 0 0 0 29px;
+  }
+  footer .Fcontent_wrp .Fside1 h5::before {
+    width: 26px;
+    height: 1px;
+    left: -2px;
+    top: 9px;
+  }
+  footer .Fcontent_wrp .Fside1 h1 {
+    font-size: 1.4rem;
+    padding: 1rem 0 1.3rem;
+    line-height: 1.6;
+  }
+  footer .Fcontent_wrp .Fside1 p br {
+    display: none;
+  }
+  footer .Fcontent_wrp .Fside1 p {
+    font-size: 15px;
+    line-height: 1.8;
+  }
+  footer .Fcontent_wrp .Rside2 a {
+    padding: 1.1rem 4rem 1.1rem 0rem;
+    width: 38%;
+    font-size: 1rem;
+  }
+  footer .Fcontent_wrp .Rside2 a::after {
+    right: 49px;
+    top: 24px;
+  }
+  footer .Fcontent_wrp .Rside2 img {
+    max-width: 8%;
+  }
+  footer .Fcontent_wrp .Rside2 span {
+    font-size: 19px;
+    padding: 1rem 0 1.3rem;
+  }
+}
+/*# sourceMappingURL=media.css.map */
